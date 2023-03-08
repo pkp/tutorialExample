@@ -3,8 +3,6 @@
 <version>
 	<application>tutorialExample</application>
 	<type>plugins.generic</type>
-	<release>0.1.0.0</release>
-	<date>2019-05-15</date>
-	<lazy-load>1</lazy-load>
-	<class>TutorialExamplePlugin</class>
+	<release>1.0.0.0</release>
+	<date>2023-05-15</date>
 </version>
